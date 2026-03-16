@@ -14,3 +14,4 @@ chemin_in <-paste0("V:/EAPR/Bilans_demographiques/Bilan_demo_20",an,"/1-Données
 # chemin des données en sortie
 chemin_out <- paste0("V:/EAPR/Bilans_demographiques/Bilan_demo_20",an,"/2-Données_analyses")
 
+chemin_in <- paste0("V:/EAPR/Bilans_demographiques/Bilan_demo_20",an,"/2-Données_analyses")
