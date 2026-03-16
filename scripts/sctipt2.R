@@ -12,6 +12,6 @@ chemin_pg <- paste0("V:/EAPR/Bilans_demographiques/Bilan_demo_20",an,"/0-Program
 # chemin des données en entrée (estimations pop)
 chemin_in <-paste0("V:/EAPR/Bilans_demographiques/Bilan_demo_20",an,"/1-Données_entrée/MAD_EP/tables_rds")
 # chemin des données en sortie
-chemin_out <- paste0("V:/EAPR/Bilans_demographiques/Bilan_demo_20",an,"/2-Données_analyses")
+
 
 chemin_in <- paste0("V:/EAPR/Bilans_demographiques/Bilan_demo_20",an,"/2-Données_analyses")
